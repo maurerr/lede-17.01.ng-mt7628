@@ -1,0 +1,11 @@
+e982dd63289756794f7f0296d4745c57e0fd0960d153551be3c2748ac26254bf *config.seed
+73d071aa3e9045c75ed5cb4301d9490e4c73cc0487f556b6b502a6f98dca7c1c *lede-imagebuilder-ramips-mt7628.Linux-x86_64.tar.xz
+689542396d342298e1edb082e7d7227e960bb08a1332b72a96f58b495bd11751 *lede-ramips-mt7628-asus_rt-n10p-v3-squashfs-sysupgrade.bin
+db708dbe16ab8c12b340a31735290f5e3f1f159fd594de2a75d5c2ffb1ebad3b *lede-ramips-mt7628-asus_rt-n11p-b1-squashfs-sysupgrade.bin
+fceba286f2f6b1cbfc4a08892e743ecbba8f2d8b21bea80fc7c2eff4e6046a96 *lede-ramips-mt7628-asus_rt-n12-vp-b1-squashfs-sysupgrade.bin
+05547f335de14e4fad12ea399da512650d947c94011927dfb3f9e56d93481565 *lede-ramips-mt7628-tplink_tl-wr840n-v6-squashfs-sysupgrade.bin
+92c29d13e82eb3ff78dc94ef8790a8ca0385b359681694b18c1e94e22c99fac5 *lede-ramips-mt7628-tplink_tl-wr840n-v6-squashfs-tftp-recovery.bin
+fa842a53c79e2e4768bb2c7f3f25374144b11ffb149e5d16d8fc03de3779988f *lede-ramips-mt7628-tplink_tl-wr841n-v14-squashfs-sysupgrade.bin
+403dc44f7858fcb2067ce7a985957d7102249be2453887a912fd2089b532777d *lede-ramips-mt7628-tplink_tl-wr841n-v14-squashfs-tftp-recovery.bin
+2581d3d59fc01f2f0f7524215f5364cc2ddf32cf139c90496771d7ffa97e7e5c *lede-ramips-mt7628.manifest
+d6bbe481698d09c98242665e212e273aaf4060e13d72ed74223a63d95fefb843 *lede-sdk-ramips-mt7628_gcc-5.4.0_musl-1.1.16.Linux-x86_64.tar.xz

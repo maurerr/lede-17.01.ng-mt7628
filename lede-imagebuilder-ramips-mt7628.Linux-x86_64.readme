@@ -1,0 +1,2 @@
+cat lede-imagebuilder-ramips-mt7628.Linux-x86_64.tar.xz.part0*  > lede-imagebuilder-ramips-mt7628.Linux-x86_64.tar.xz
+to unsplit the imagebuilder
